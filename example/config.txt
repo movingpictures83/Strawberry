@@ -1,0 +1,2 @@
+Prefix plugins/Strawberry/example/
+Plugin Strawberry inputfile sample_01.sorted.bam outputfile output.gtf
